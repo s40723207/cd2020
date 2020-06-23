@@ -310,7 +310,7 @@ vertical: body pane on the botton</t>
 
 * [第二次直播會議](https://drive.google.com/open?id=1afrCAJJtArv94qnTK2zOsPor7WmpeaPH)
 * 製作分組作業2
-* [Assignment 2](https://s40723207.github.io/cd2020/downloads/MechanicalDesgnProcess.pdf)
+* [Assignment 2](https://s40723207.github.io/cd2020/downloads/MechanicalDesgnProcess-1.pdf)
 * V-rep上的四輪車設定</t>
 <t tx="leo.20200618224643.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -354,6 +354,7 @@ vertical: body pane on the botton</t>
 
 * [第三次直播會議](https://drive.google.com/open?id=1AP49O_JYqgqQNDzEz7Pxj-tzjugL8Bb2)
 * 製作分組作業3
+[Assignment 3](https://s40723207.github.io/cd2020/downloads/MechatronicDesignCases-1.pdf)
 * 建立Google API
 </t>
 <t tx="leo.20200623202946.1">&lt;section data-markdown&gt;
