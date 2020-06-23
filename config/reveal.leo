@@ -33,11 +33,29 @@
 <v t="leo.20200618224641.1"><vh>week6&amp;7</vh>
 <v t="leo.20200618224641.2"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20200618224643.1"><vh>week1</vh>
+<v t="leo.20200618224643.1"><vh>week8</vh>
 <v t="leo.20200618224643.2"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20200618224645.1"><vh>week1</vh>
+<v t="leo.20200618224645.1"><vh>week9</vh>
 <v t="leo.20200618224645.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20200623202427.1"><vh>week10</vh>
+<v t="leo.20200623202427.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20200623202946.1"><vh>week11</vh>
+<v t="leo.20200623202946.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20200623202948.1"><vh>week12</vh>
+<v t="leo.20200623202948.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20200623202959.1"><vh>week13</vh>
+<v t="leo.20200623202959.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20200623214508.1"><vh>week14</vh>
+<v t="leo.20200623214508.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20200623214510.1"><vh>week15</vh>
+<v t="leo.20200623214510.2"><vh>投影片快捷鍵</vh></v>
 </v>
 </v>
 </v>
@@ -72,7 +90,8 @@ Created by [40723207](https://s40723227.github.io/cd2020/content/index.html)
 
 						
 </t>
-<t tx="leo.20180902120523.12">## 分組組員:
+<t tx="leo.20180902120523.12">## 分組組員: 
+### 組長:(40723227)
 ### [40623114](https://40623114.github.io/cd2020) [40623121](https://40623121.github.io/cd2020)
 ### [40723203](https://s40723203.github.io/cd2020)  [40723205](https://s40723205.github.io/cd2020)
 ### [40723209](https://s40723209.github.io/cd2020)  [40723218](https://s40723218.github.io/cd2020)
@@ -274,6 +293,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200618223437.2">## [Week3](https://s40723207.github.io/cd2020/content/Week1~Week5.html)
 
+* [第一次直播會議](https://drive.google.com/file/d/1R3UElFfUhid4D7hocedXO69w5lPEYi1M/view)
 * 製作分組作業
 * [Assignment 1](https://s40723207.github.io/cd2020/downloads/Assignment%201.1.pdf)
 </t>
@@ -286,8 +306,9 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200618224641.2">## [Week1&amp;2](https://s40723207.github.io/cd2020/content/Week1~Week5.html)
+<t tx="leo.20200618224641.2">## [Week6&amp;7](https://s40723207.github.io/cd2020/content/Week5~Week9.html)
 
+* [第二次直播會議](https://drive.google.com/open?id=1afrCAJJtArv94qnTK2zOsPor7WmpeaPH)
 * 製作分組作業2
 * [Assignment 2](https://s40723207.github.io/cd2020/downloads/MechanicalDesgnProcess.pdf)
 * V-rep上的四輪車設定</t>
@@ -300,11 +321,11 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200618224643.2">## [Week1&amp;2](https://s40723207.github.io/cd2020/content/Week1~Week5.html)
+<t tx="leo.20200618224643.2">## [Week8](https://s40723207.github.io/cd2020/content/Week5~Week9.html)
 
-* 建立個人的倉儲
-* 更新python3.7.3到3.8.2
-* 製作可攜系統</t>
+* 遠距離教學
+* 直播抽查Google meet操作
+* [影片位置](https://drive.google.com/file/d/1kWc2PtlzJRqkmHFK_wy-4mOvc5b2fUya/view)</t>
 <t tx="leo.20200618224645.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -314,10 +335,102 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200618224645.2">## [Week1&amp;2](https://s40723207.github.io/cd2020/content/Week1~Week5.html)
+<t tx="leo.20200618224645.2">## [Week9](https://s40723207.github.io/cd2020/content/Week5~Week9.html)
 
-* 建立個人的倉儲
-* 更新python3.7.3到3.8.2
-* 製作可攜系統</t>
+* 期中報告
+##### 利用google meet在直播上
+##### 報告期中前所作的內容
+* [影片位置](https://drive.google.com/file/d/1ROmIkXSi4EG-9jMB1EBoiDB4Z-iNFovr/view?usp=sharing)</t>
+<t tx="leo.20200623202427.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623202427.2">## [Week10](https://s40723207.github.io/cd2020/content/Week10~Week14.html)
+
+* [第三次直播會議](https://drive.google.com/open?id=1AP49O_JYqgqQNDzEz7Pxj-tzjugL8Bb2)
+* 製作分組作業3
+* 建立Google API
+</t>
+<t tx="leo.20200623202946.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623202946.2">## [Week11](https://s40723207.github.io/cd2020/content/Week10~Week14.html)
+
+* Ubuntu設定及API連線
+* 以ssh對Github連線
+* [第四次小組會議](https://youtu.be/Dzh81Op7ka0)
+</t>
+<t tx="leo.20200623202948.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623202948.2">## [Week12](https://s40723207.github.io/cd2020/content/Week10~Week14.html)
+
+* IPv4 Ubuntu對外連線設定操作
+* Week12抽點
+* [個人抽點網站](http://mde.tw/cdbw12-2/content/40723207.html)
+</t>
+<t tx="leo.20200623202959.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623202959.2">## [Week13](https://s40723207.github.io/cd2020/content/Week10~Week14.html)
+
+* IPv6遠端控制
+* Week13抽點
+* [個人抽點網站](http://mde.tw/cdbw13-3/content/40723207.html)
+</t>
+<t tx="leo.20200623214508.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623214508.2">## [Week14](https://s40723207.github.io/cd2020/content/Week10~Week14.html)
+
+
+* FileZilla文件共享設定
+* Week14抽點
+* [個人抽點網站](http://mde.tw/cdbw14-1/content/40723207.html)
+</t>
+<t tx="leo.20200623214510.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623214510.2">## [Week15&amp;16](https://s40723207.github.io/cd2020/content/Week15~Week18.html)
+
+* IPv6連線至個人倉儲
+* Week15抽點
+* [個人抽點網站](http://mde.tw/cdbw15-1/content/40723207.html)
+</t>
 </tnodes>
 </leo_file>
